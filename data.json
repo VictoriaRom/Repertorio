@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "titulo": "Shameless",
+    "artista": "Camila Cabello",
+    "tono": "E"
+  },
+  {
+    "id": 3,
+    "titulo": "Automatico",
+    "artista": "Maria Becerra",
+    "tono": "D"
+  },
+  {
+    "id": 4,
+    "titulo": "Good 4 u",
+    "artista": "Olivia Rodrigo",
+    "tono": "A"
+  }
+]
